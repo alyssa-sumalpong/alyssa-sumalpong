@@ -62,12 +62,9 @@
 ## 📊 Barbie Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodedByYesha&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF1493&text_color=333&bg_color=FFF0F5" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CodedByYesha&layout=compact&theme=radical&title_color=FF69B4&bg_color=FFF0F5" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodedByYesha&theme=radical&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodedByYesha&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF1493" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByYesha&layout=compact&theme=radical&title_color=FF69B4" />
 </div>
 
 ---
