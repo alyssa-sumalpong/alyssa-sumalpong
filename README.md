@@ -19,7 +19,7 @@
 📍 Oas, Albay, Philippines  
 💌 alyssarsumalpong@gmail.com  
 
-> *"Life in plastic, it's fantastic... but coding in PHP is even better!"* 💖
+> *"Life in plastic, it's fantastic... but coding is even better!"* 💖
 
 ---
 
