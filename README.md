@@ -63,13 +63,12 @@
 
 <div align="center">
 
-### 🎀 Profile Overview
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=CodedByYesha&theme=cupcake)
-
-<br>
-
-### 💻 Top Languages
-[![github-stats-card](https://stats-card.pages.dev/lang?user=CodedByYesha&layout=compact&type=donut&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
+| 🎀 Metric | 💖 Number |
+|-----------|-----------|
+| **GitHub Repositories** | 🔢 <!-- Count your public repos --> |
+| **Projects Completed** | 🔢 5+ |
+| **Years Learning** | 🔢 4+ |
+| **Cups of Coffee** | ☕ Infinite |
 
 </div>
 
