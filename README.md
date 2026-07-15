@@ -19,7 +19,7 @@
 📍 Oas, Albay, Philippines  
 💌 alyssarsumalpong@gmail.com  
 
-> *"Life in plastic, it's fantastic... but coding in PHP is even better!"* 💖
+> *"Life in plastic, it's fantastic... but coding is even better!"* 💖
 
 ---
 
@@ -49,22 +49,28 @@
 
 ## 💖 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **DocuTrack: DTMS** | Document Tracking System for LGU Ligao City with QR codes | PHP, MySQL, Bootstrap |
-| **CardZap** | AI-powered flashcard study platform (Capstone) | React, Node.js, AI |
-| **HERE'S E-Commerce** | Full-stack boutique e-commerce with GCash/COD | PHP, JS, MySQL |
-| **ORIGATO B2B** | Art supplies B2B platform with admin dashboard | PHP, Bootstrap, MySQL |
-| **Student Management System** | Comprehensive PHP/MySQL web app for student registration, teacher management, subject enrollment, admission processing, and evaluation system with secure authentication | PHP, MySQL, JavaScript, Bootstrap |
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| **DocuTrack: DTMS** | Document Tracking System for LGU Ligao City with QR codes | PHP, MySQL, Bootstrap | 🔒 Private Repository |
+| **CardZap** | AI-powered flashcard study platform (Capstone) | React, Node.js, AI | 🔒 Private Repository |
+| **HERE'S E-Commerce** | Full-stack boutique e-commerce with GCash/COD | PHP, JS, MySQL | 🚀 Deployed |
+| **ORIGATO B2B** | Art supplies B2B platform with admin dashboard | PHP, Bootstrap, MySQL | 🚀 Deployed |
+| **Student Management System** | Comprehensive PHP/MySQL web app for student registration, teacher management, subject enrollment, admission processing, and evaluation system with secure authentication | PHP, MySQL, JavaScript, Bootstrap | 🚀 Deployed |
 
 ---
 
 ## 📊 Barbie Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodedByYesha&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF1493" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByYesha&layout=compact&theme=radical&title_color=FF69B4" />
+
+### 🎀 Profile Overview
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=CodedByYesha&theme=cupcake)
+
+<br>
+
+### 💻 Top Languages
+[![github-stats-card](https://stats-card.pages.dev/lang?user=CodedByYesha&layout=compact&type=donut&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
+
 </div>
 
 ---
