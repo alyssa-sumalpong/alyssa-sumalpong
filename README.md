@@ -1,6 +1,6 @@
 <!-- Barbie Overview Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=45&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi,+I'm+Alyssa!+%F0%9F%8E%80;Code.+Create.+Inspire.;Barbie+World+%F0%9F%92%96" alt="Barbie Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=45&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi,+I+am+CodedByYesha!+%F0%9F%8E%80;This+Barbie+is+a+Web+Developer!;Code.+Create.+Inspire." alt="Barbie Typing Animation" />
 </div>
 
 <div align="center">
@@ -62,20 +62,27 @@
 ## 📊 Barbie Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlyssaSumalpong&show_icons=true&theme=buefy&title_color=FF69B4&icon_color=FF1493&text_color=333&bg_color=FFF0F5" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssaSumalpong&layout=compact&theme=buefy&title_color=FF69B4&bg_color=FFF0F5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodedByYesha&show_icons=true&theme=buefy&title_color=FF69B4&icon_color=FF1493&text_color=333&bg_color=FFF0F5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByYesha&layout=compact&theme=buefy&title_color=FF69B4&bg_color=FFF0F5" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlyssaSumalpong&theme=pink&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodedByYesha&theme=pink&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" />
 </div>
 
 ---
 
-## 🌟 Dev Quote
+## 🌟 Ada Lovelace's Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
+
+<div align="center">
+  <blockquote>
+    <i>"That brain of mine is something more than merely mortal, as time will show."</i>
+    <br>— <b>Ada Lovelace</b>, the first computer programmer 💻✨
+  </blockquote>
 </div>
 
 ---
@@ -92,7 +99,7 @@
   <a href="https://codedbyyesha.netlify.app">
     <img src="https://img.shields.io/badge/-Portfolio-FF1493?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://github.com/AlyssaSumalpong">
+  <a href="https://github.com/CodedByYesha">
     <img src="https://img.shields.io/badge/-GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </div>
@@ -100,7 +107,8 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlyssaSumalpong&color=FF69B4&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=CodedByYesha&color=FF69B4&style=flat-square&label=Profile+Views" />
   
-  ### ✨ Made with 💖 and a lot of pink ✨
+  ### ✨ And you're always free to begin again, <br> And you're always free to believe! ✨
+  <br>— <i>Erika from The Princess and the Pauper</i> 💖👑
 </div>
