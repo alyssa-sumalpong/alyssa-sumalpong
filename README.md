@@ -19,7 +19,7 @@
 📍 Oas, Albay, Philippines  
 💌 alyssarsumalpong@gmail.com  
 
-> *"Life in plastic, it's fantastic... but coding is even better!"* 💖
+> *"Life in plastic, it's fantastic... but coding in PHP is even better!"* 💖
 
 ---
 
@@ -63,12 +63,13 @@
 
 <div align="center">
 
-| 🎀 Metric | 💖 Number |
-|-----------|-----------|
-| **GitHub Repositories** | 🔢 <!-- Count your public repos --> |
-| **Projects Completed** | 🔢 5+ |
-| **Years Learning** | 🔢 4+ |
-| **Cups of Coffee** | ☕ Infinite |
+### 🎀 Profile Stats
+[![github-stats-card](https://stats-card.pages.dev/user?user=CodedByYesha&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
+
+<br>
+
+### 💻 Top Languages
+[![github-stats-card](https://stats-card.pages.dev/lang?user=CodedByYesha&layout=compact&type=donut&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
 
 </div>
 
