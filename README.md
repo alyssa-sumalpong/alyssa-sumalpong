@@ -5,7 +5,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Web%20Developer-FF69B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-BSIT%20Cum%20Laude-DA70D6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Dream%20Big-FF1493?style=for-the-badge" />
 </div>
 
@@ -56,27 +55,24 @@
 | **CardZap** | AI-powered flashcard study platform (Capstone) | React, Node.js, AI |
 | **HERE'S E-Commerce** | Full-stack boutique e-commerce with GCash/COD | PHP, JS, MySQL |
 | **ORIGATO B2B** | Art supplies B2B platform with admin dashboard | PHP, Bootstrap, MySQL |
+| **Student Management System** | Comprehensive PHP/MySQL web app for student registration, teacher management, subject enrollment, admission processing, and evaluation system with secure authentication | PHP, MySQL, JavaScript, Bootstrap |
 
 ---
 
 ## 📊 Barbie Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodedByYesha&show_icons=true&theme=buefy&title_color=FF69B4&icon_color=FF1493&text_color=333&bg_color=FFF0F5" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByYesha&layout=compact&theme=buefy&title_color=FF69B4&bg_color=FFF0F5" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodedByYesha&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF1493&text_color=333&bg_color=FFF0F5" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CodedByYesha&layout=compact&theme=radical&title_color=FF69B4&bg_color=FFF0F5" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodedByYesha&theme=pink&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" />
+  <img src="https://streak-stats.demolab.com?user=CodedByYesha&theme=radical&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" />
 </div>
 
 ---
 
 ## 🌟 Ada Lovelace's Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
 
 <div align="center">
   <blockquote>
