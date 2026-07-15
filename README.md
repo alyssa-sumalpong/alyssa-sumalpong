@@ -1,6 +1,6 @@
 <!-- Barbie Overview Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=45&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi,+I+am+CodedByYesha!+%F0%9F%8E%80;This+Barbie+is+a+Web+Developer!;Code.+Create.+Inspire." alt="Barbie Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=45&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi,+I+am+Coded+by+Yesha!+%F0%9F%8E%80;This+Barbie+is+a+Web+Developer!;Code.+Create.+Inspire." alt="Barbie Typing Animation" />
 </div>
 
 <div align="center">
@@ -64,12 +64,12 @@
 <div align="center">
 
 ### 🎀 Profile Stats
-[![github-stats-card](https://stats-card.pages.dev/user?user=CodedByYesha&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://stats-card.pages.dev/user?user=alyssa-sumalpong&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
 
 <br>
 
 ### 💻 Top Languages
-[![github-stats-card](https://stats-card.pages.dev/lang?user=CodedByYesha&layout=compact&type=donut&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://stats-card.pages.dev/lang?user=alyssa-sumalpong&layout=compact&type=donut&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
 
 </div>
 
@@ -98,7 +98,7 @@
   <a href="https://codedbyyesha.netlify.app">
     <img src="https://img.shields.io/badge/-Portfolio-FF1493?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://github.com/CodedByYesha">
+  <a href="https://github.com/alyssa-sumalpong">
     <img src="https://img.shields.io/badge/-GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </div>
@@ -106,7 +106,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodedByYesha&color=FF69B4&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=alyssa-sumalpong&color=FF69B4&style=flat-square&label=Profile+Views" />
   
   ### ✨ And you're always free to begin again, <br> And you're always free to believe! ✨
   <br>— <i>Erika from The Princess and the Pauper</i> 💖👑
